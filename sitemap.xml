@@ -128,6 +128,13 @@
 
   
   <url>
+    <loc>https://chianghaosion.github.io/tags/kafka/</loc>
+    <lastmod>2023-03-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://chianghaosion.github.io/tags/Flink/</loc>
     <lastmod>2023-03-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -149,13 +156,6 @@
   </url>
   
   <url>
-    <loc>https://chianghaosion.github.io/tags/kafka/</loc>
-    <lastmod>2023-03-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://chianghaosion.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
     <lastmod>2023-03-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -163,14 +163,21 @@
   </url>
   
   <url>
-    <loc>https://chianghaosion.github.io/tags/Markdown/</loc>
+    <loc>https://chianghaosion.github.io/tags/Hexo/</loc>
     <lastmod>2023-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://chianghaosion.github.io/tags/Hexo/</loc>
+    <loc>https://chianghaosion.github.io/tags/%E6%95%B0%E6%8D%AE%E6%B5%81/</loc>
+    <lastmod>2023-03-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://chianghaosion.github.io/tags/API/</loc>
     <lastmod>2023-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -191,14 +198,7 @@
   </url>
   
   <url>
-    <loc>https://chianghaosion.github.io/tags/%E6%95%B0%E6%8D%AE%E6%B5%81/</loc>
-    <lastmod>2023-03-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://chianghaosion.github.io/tags/API/</loc>
+    <loc>https://chianghaosion.github.io/tags/Markdown/</loc>
     <lastmod>2023-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -207,14 +207,14 @@
 
   
   <url>
-    <loc>https://chianghaosion.github.io/categories/WorkShop/</loc>
+    <loc>https://chianghaosion.github.io/categories/Translation/</loc>
     <lastmod>2023-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://chianghaosion.github.io/categories/Translation/</loc>
+    <loc>https://chianghaosion.github.io/categories/WorkShop/</loc>
     <lastmod>2023-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
